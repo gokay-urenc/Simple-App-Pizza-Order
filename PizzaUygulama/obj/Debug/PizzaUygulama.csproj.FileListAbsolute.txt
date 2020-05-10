@@ -1,0 +1,20 @@
+F:\Kurs Dosyaları\YMS4117\OOP\PizzaUygulama\PizzaUygulama\bin\Debug\PizzaUygulama.exe.config
+F:\Kurs Dosyaları\YMS4117\OOP\PizzaUygulama\PizzaUygulama\bin\Debug\PizzaUygulama.exe
+F:\Kurs Dosyaları\YMS4117\OOP\PizzaUygulama\PizzaUygulama\bin\Debug\PizzaUygulama.pdb
+F:\Kurs Dosyaları\YMS4117\OOP\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.Form1.resources
+F:\Kurs Dosyaları\YMS4117\OOP\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.Properties.Resources.resources
+F:\Kurs Dosyaları\YMS4117\OOP\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.csproj.GenerateResource.cache
+F:\Kurs Dosyaları\YMS4117\OOP\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.csproj.CoreCompileInputs.cache
+F:\Kurs Dosyaları\YMS4117\OOP\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.exe
+F:\Kurs Dosyaları\YMS4117\OOP\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.pdb
+F:\Kurs Dosyaları\YMS4117\OOP\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.csprojAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\PizzaUygulama\PizzaUygulama\bin\Debug\PizzaUygulama.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\PizzaUygulama\PizzaUygulama\bin\Debug\PizzaUygulama.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\PizzaUygulama\PizzaUygulama\bin\Debug\PizzaUygulama.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\PizzaUygulama\PizzaUygulama\obj\Debug\PizzaUygulama.pdb
